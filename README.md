@@ -27,7 +27,8 @@ cd discord-status-changer
 pip install python-dotenv requests
 ```
 
-3. **Create your phrases file** (`frasi.txt`). e.g.
+3. **Create your phrases file** (`phrases.txt`).
+   e.g.
 ```
 🎮 Gaming time
 📚 Studying hard  
